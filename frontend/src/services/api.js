@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://disaster-relief-resource-router.onrender.com/",
+  baseURL: "https://disaster-relief-resource-router.onrender.com/api",
 });
 
 // attach token to every request
