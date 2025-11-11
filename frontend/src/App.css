@@ -1,0 +1,48 @@
+.navbg {
+    background-color: #1561ad;
+}
+.card.loginbg {
+    background-color: #fff5e6;
+}
+
+ .btn.login-btn {
+    background-color: #1d1d1d;
+}
+ .btn.login-btn:hover {
+    background-color: #4f4f4f;
+}
+.btn.searchbtn {
+    background-color: #343a40;
+}
+.btn.searchbtn:hover {
+    background-color: #4b5055;
+}
+ .form-control.bdr {
+    border: 2px solid #d35400;
+    color: #d35400;
+ }
+ .resourcelist {
+    background-color: #ffeacb;
+    color: #000000;
+ }
+ .btn.delete {
+    background-color: red;
+ }
+    .btn.delete:hover {
+        background-color: #cc0000;
+    }
+ .fnt {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ @media (max-width: 991.98px) {  
+  .custom-mobile-list .nav-item {
+    border-top: 2px solid #ffffff;  
+  }}
+
+.about {
+    background-color: #ffeacb;
+}
+.hometxt {
+    color: #d35400;
+}
